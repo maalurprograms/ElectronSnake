@@ -1,0 +1,10 @@
+#matrix {
+	width: 500px;
+	height: 500px;
+}
+
+.field{
+	border-radius:5px;
+	padding: 0;
+	margin: 0;
+}
